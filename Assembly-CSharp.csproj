@@ -64,6 +64,8 @@
   <ItemGroup>
     <Compile Include="Assets\Ani\Jammo-Character\Scripts\CharacterSkinController.cs" />
     <Compile Include="Assets\Ani\Jammo-Character\Scripts\MovementInput.cs" />
+    <Compile Include="Assets\Src\BulletController.cs" />
+    <Compile Include="Assets\Src\GameController.cs" />
     <Compile Include="Assets\Src\PlayerController.cs" />
     <Compile Include="Assets\Src\Rocker.cs" />
     <Compile Include="Assets\Src\role_move.cs" />
